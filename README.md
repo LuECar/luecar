@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/luecar_" target="blank"><img src="https://img.shields.io/twitter/follow/luecar_?logo=twitter&style=for-the-badge" alt="luecar_" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/271624292/original.gif">
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **luecar16@gmail.com**
 
