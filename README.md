@@ -3,8 +3,8 @@ Hi 👋, I'm Luis Carmona (but you can call me Luuh :] )
 <div align="left">
   <a href="https://twitter.com/LuECar_">
     <img
-      src="https://img.shields.io/twitter/follow/LuECar_?
-           label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="[https://img.shields.io/twitter/follow/LuECar_?
+           label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff](https://twitter.com/LuECar_/followers)"
       alt="Twitter"
     />
   </a>
