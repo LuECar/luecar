@@ -11,7 +11,8 @@
 - 📫 How to reach me **luecar16@gmail.com**
 
 - ⚡ Fun fact **I can make the greatest chili you have ever tried!**
-<a href="https://twitter.com/luecar_" target="blank"><img align = "right" src="https://img.shields.io/twitter/follow/luecar_?logo=twitter&style=for-the-badge" alt="luecar_" /></a>
+<a href="https://twitter.com/luecar_" target="blank"><img src="https://img.shields.io/twitter/follow/luecar_?logo=twitter&style=for-the-badge" alt="luecar_" /></a>
+<a href="https://app.daily.dev/LuECar"><img align = "right" src="https://api.daily.dev/devcards/9cd3dfd5219d43d29e5a4b47ef5231dc.png?r=kku" width="400" alt="Luis Carmona's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luecar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luecar_" height="30" width="40" /></a>
