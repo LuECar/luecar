@@ -20,7 +20,7 @@ Hi 👋, I'm Luis Carmona (but you can call me Luuh :] )
 
 ## A passionate frontend developer from Miami, FL
 
--🌱 I’m currently learning React
+-🌱 I’m currently learning *React*
 
 -📫 How to reach me luecar16@gmail.com
 
