@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Miami, FL</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luecar&label=Profile%20views&color=0e75b6&style=flat" alt="luecar" /> </p>
+<a href="https://twitter.com/luecar_" target="blank"><img src="https://img.shields.io/twitter/follow/luecar_?logo=twitter&style=for-the-badge" alt="luecar_" /></a>
 
 <!-- <p align="left">  </p> -->
 
@@ -12,7 +13,7 @@
 - 📫 How to reach me **luecar16@gmail.com**
 
 - ⚡ Fun fact **I can make the greatest chili you have ever tried!**
-<a href="https://twitter.com/luecar_" target="blank"><img src="https://img.shields.io/twitter/follow/luecar_?logo=twitter&style=for-the-badge" alt="luecar_" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 
