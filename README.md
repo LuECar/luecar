@@ -14,9 +14,7 @@ Hi 👋, I'm Luis Carmona (but you can call me Luuh :] )
     />
   </a>
 
-  <a href="https://app.daily.dev/LuECar">
-    <img src="https://api.daily.dev/devcards/9cd3dfd5219d43d29e5a4b47ef5231dc.png?r=kku" width="256" align = "right" alt="Luis Carmona's Dev Card"/></a>
-</div>
+  <a href="https://app.daily.dev/LuECar"><img src="https://api.daily.dev/devcards/9cd3dfd5219d43d29e5a4b47ef5231dc.png?r=77c" width="256" align="right" alt="Luis Carmona's Dev Card"/></a>
 
 ## A passionate frontend developer from Miami, FL
 
